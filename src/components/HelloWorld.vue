@@ -10,7 +10,7 @@ const count = ref(0)
 
 <template>
   <h1>{{ msg }}</h1>
-<p>有冲突啊啊啊啊</p>
+
 </template>
 
 <style scoped>
